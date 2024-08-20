@@ -88,7 +88,7 @@ def run_api_call_loop(duration: int = 120):
     if st.session_state.running:
             st.balloons()
             time.sleep(2)  
-            st.snow()
+            # st.snow()
             st.session_state.running = False
             #st.success('Time is up! 🎈🎈🎈')
             st.toast('Hooray! Next?', icon='🎉')

@@ -13,3 +13,19 @@ source clock/bin/activate
 ```
 pip install -r requirements.txt
 ```
+
+Download the Ollama server from https://ollama.com
+
+Current available agent profiles (feel free to add your own;)
+```
+Cowboy: 🤠
+Pirate: 🏴‍☠️
+Hip-hop singer: 🎤
+Insurance employee: 💼
+Rastafarian: 🧑🏾‍🦱
+Alien from another planet: 👽
+Vogon Poet from Hitchiker's guide to the galaxy: 4️⃣2️⃣
+Existentialist Philosopher: 🤔
+William Shakespeare: 🎭
+Master Yoda: 🧙‍♂️
+```
