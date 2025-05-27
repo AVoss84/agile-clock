@@ -8,9 +8,6 @@ Create virtual environment with required packages
 ```bash
 python3 -m venv clock
 source clock/bin/activate
-```
-
-```
 pip install -r requirements.txt
 ```
 
